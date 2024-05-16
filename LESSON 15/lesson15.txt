@@ -1,10 +1,23 @@
 NEW BRANCH
 
+
+LESSON-15: add folder / добавить папку
+
 //
+
+// как называть ветки
 LESSON-15
 
 feature/LESSON-15 - создаем что-то новое
 bug-fix/LESSON-15 - исправление ошибки
 
+[task-id]
 feature/[task-id]
 bug-fix/[task-id]
+
+
+// как описывать коммит
+
+"[task-id]: add folder" - ID задачи + название задачи
+"[task-id]: add folder and file" - - ID задачи + что сделал
+"add folder" - что сделал
