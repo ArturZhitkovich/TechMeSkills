@@ -1,1 +1,7 @@
 untracker.txt
+
+# Игнорировать файлы, созданные IDE
+.idea/
+.vscode/
+
+untrackerFolde/
