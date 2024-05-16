@@ -1,0 +1,10 @@
+NEW BRANCH
+
+//
+LESSON-15
+
+feature/LESSON-15 - создаем что-то новое
+bug-fix/LESSON-15 - исправление ошибки
+
+feature/[task-id]
+bug-fix/[task-id]
